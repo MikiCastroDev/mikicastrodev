@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sixtema](https://sixtema.es/)
 
-- 👨‍💻 All of my projects are available at [Github portfolio](www.github.com/mikicastrodev)
+- 👨‍💻 All of my projects are available at my profile
 
 - 💬 Ask me about **.NET, C#, Comics and current series**
 
